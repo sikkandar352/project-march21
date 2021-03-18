@@ -16,6 +16,10 @@ public class grp2 {
 		public void tc33() {
 			System.out.println("tc33");
 		}
+	@Test(groups="regression")
+	public void tc44() {
+		System.out.println("tc33");
+	}
 	}
 
 
